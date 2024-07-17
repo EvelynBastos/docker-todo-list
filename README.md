@@ -20,7 +20,7 @@ Cada comando foi escrito em seu próprio arquivo.
 </details>
 
 <details>
-  <summary><strong>‼️ 🛠 Instalando o projeto </strong></summary><br/>
+  <summary><strong>🛠 Instalando o projeto </strong></summary><br/>
 
 1. Clone o repositório
 * `git clone git@github.com:EvelynBastos/docker-todo-list.git`
